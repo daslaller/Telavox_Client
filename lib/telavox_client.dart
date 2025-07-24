@@ -5,7 +5,7 @@ library;
 
 export 'src/telavox_client.dart';
 
-export 'src/telavox_service.dart';
+//export 'src/telavox_service.dart';
 
 export 'src/call.dart';
 
